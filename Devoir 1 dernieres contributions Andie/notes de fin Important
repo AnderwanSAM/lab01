@@ -1,0 +1,5 @@
+Malheureusement tout tourne autour de comparerer design 5 
+etant donnéqu'il s'agit d'une methode abstraite, on avait pense un moment a faire la comparaison avce les classes filles 
+le nouveau code testDePerformances.java suit les instructions du devoir et peut servir de base pour cettec omparaison
+J'ai egalement redefini les  implementations des designs en m'inspirant des codes de mathieu langlois que Mika avait trouvé
+En utilisant le fichier de performances , vous aurez a ajouter des etapes pour calculer les valeur moyennes
